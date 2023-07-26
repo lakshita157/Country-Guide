@@ -8,7 +8,7 @@ searchBtn.addEventListener("click", () => {
         .then((response) => response.json())
         .then((data) => {
             // console.log(data[0]);
-            console.log(data[0].capital[0]);
+            // console.log(data[0].capital[0]);
             console.log(data[0].flags.svg);
             console.log(data[0].name.common);
             console.log(data[0].continents[0]);
