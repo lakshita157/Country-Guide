@@ -10,7 +10,8 @@ body{
 }
 
 .container{
-    background-color: #ffffff;
+/*     background-color: #ffffff; */
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
     width: 80vw;
     max-width: 37.5em;
     padding: 3em 2.5em;
